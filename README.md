@@ -1,1 +1,1 @@
-# Discord-Bot-using-Python
+# Discord Friday Bot
